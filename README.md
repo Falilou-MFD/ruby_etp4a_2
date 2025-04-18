@@ -13,3 +13,6 @@ Objectif de chaque programme
 
     03_stairway.rb
     Jeu où l'utilisateur grimpe un escalier en lançant un dé.
+
+
+DIAGNE/Mouhamadou Falilou/falilou_mfd
