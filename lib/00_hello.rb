@@ -9,9 +9,9 @@ def say_hello(first_name)
     gets.chomp
   end
   
-  def both
+  def perform
     name = ask_first_name
     say_hello(name)
   end
   
- both
+ perform
